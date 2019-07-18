@@ -16,6 +16,9 @@
   </XML>
   <codeStyleSettings language="JAVA">
     <option name="RIGHT_MARGIN" value="200" />
+    <option name="LINE_COMMENT_AT_FIRST_COLUMN" value="false" />
+    <option name="BLOCK_COMMENT_AT_FIRST_COLUMN" value="false" />
+    <option name="LINE_COMMENT_ADD_SPACE" value="true" />
     <option name="BLANK_LINES_BEFORE_PACKAGE" value="1" />
     <option name="SPACE_BEFORE_ARRAY_INITIALIZER_LBRACE" value="true" />
     <option name="SPACE_BEFORE_ANNOTATION_ARRAY_INITIALIZER_LBRACE" value="true" />
