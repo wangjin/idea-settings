@@ -2,6 +2,7 @@
   <component name="DefaultFont">
     <option name="FONT_SIZE" value="14" />
     <option name="FONT_FAMILY" value="Monaco" />
+    <option name="LINE_SPACING" value="1.0" />
   </component>
   <component name="EditorSettings">
     <option name="languageBreadcrumbsMap">
