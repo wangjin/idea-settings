@@ -1,5 +1,17 @@
 <application>
   <component name="TextMateSettings">
+    <option name="themesMapping">
+      <map>
+        <entry key="Darcula" value="Darcula" />
+        <entry key="Dark purple" value="Mac Classic" />
+        <entry key="Default" value="Mac Classic" />
+        <entry key="Gray" value="Mac Classic" />
+        <entry key="High сontrast" value="Mac Classic" />
+        <entry key="Solarized Dark" value="Mac Classic" />
+        <entry key="Solarized Light" value="Mac Classic" />
+        <entry key="Visual Studio" value="Mac Classic" />
+      </map>
+    </option>
     <option name="bundles">
       <list>
         <BundleConfigBean>
