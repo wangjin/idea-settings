@@ -1,10 +1,10 @@
 <application>
   <component name="dataSourceStorage" format="xml" multifile-model="true">
-    <data-source source="LOCAL" name="cstest@101.231.62.69" uuid="a450319f-980a-439d-8186-b871f4095777">
+    <data-source source="LOCAL" name="test_training@101.231.62.69" uuid="a450319f-980a-439d-8186-b871f4095777">
       <driver-ref>sqlserver.ms</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>com.microsoft.sqlserver.jdbc.SQLServerDriver</jdbc-driver>
-      <jdbc-url>jdbc:sqlserver://101.231.62.69\test:1433;database=cstest</jdbc-url>
+      <jdbc-url>jdbc:sqlserver://101.231.62.69\test:1433;database=test_training</jdbc-url>
       <driver-properties>
         <property name="applicationName" value="DataGrip" />
       </driver-properties>
