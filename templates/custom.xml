@@ -1,0 +1,15 @@
+<templateSet group="custom">
+  <template name="list" value="List&lt;$TYPE$&gt; $LIST_NAME$ = new ArrayList&lt;&gt;();&#10;$END$" description="" toReformat="true" toShortenFQNames="true">
+    <variable name="TYPE" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="LIST_NAME" expression="suggestVariableName()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="gen_test" value="@Test&#10;public void $TEST_METHOD_NAME$() throws Exception {&#10;    $END$&#10;}" description="Generate Test Method" toReformat="true" toShortenFQNames="true" useStaticImport="true">
+    <variable name="TEST_METHOD_NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_DECLARATION" value="true" />
+    </context>
+  </template>
+</templateSet>

@@ -1,0 +1,10 @@
+<application>
+  <component name="MyBatisCodeHelper">
+    <option name="profile">
+      <Profile>
+        <option name="usejava8LocalDateTimeEct" value="true" />
+        <option name="valid" value="true" />
+      </Profile>
+    </option>
+  </component>
+</application>

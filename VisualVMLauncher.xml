@@ -1,0 +1,6 @@
+<application>
+  <component name="VisualVMLauncher">
+    <option name="jdkHome" value="/Library/Java/JavaVirtualMachines/adoptopenjdk-8.jdk/Contents/Home" />
+    <option name="visualVmExecutable" value="/Applications/VisualVM.app/Contents/Resources/visualvm/bin/visualvm" />
+  </component>
+</application>
