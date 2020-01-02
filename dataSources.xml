@@ -1,25 +1,10 @@
 <application>
   <component name="dataSourceStorage" format="xml" multifile-model="true">
-    <data-source source="LOCAL" name="MySQL - patent@app03.codebetterlife.com" uuid="3fbccbe7-347c-4918-8641-8727a009e30a">
+    <data-source source="LOCAL" name="tidb-local" uuid="2faa4d64-fac1-4ce3-827e-190fea785ffa">
       <driver-ref>mysql.8</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
-      <jdbc-url>jdbc:mysql://app03.codebetterlife.com:4000/patent</jdbc-url>
-      <keep-alive enable="true" timeout="30" />
-    </data-source>
-    <data-source source="LOCAL" name="hongyue-local" uuid="2faa4d64-fac1-4ce3-827e-190fea785ffa">
-      <driver-ref>mysql.8</driver-ref>
-      <synchronize>true</synchronize>
-      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
-      <jdbc-url>jdbc:mysql://mysql.local.hongyueip.com:3306</jdbc-url>
-      <driver-properties>
-        <property name="autoReconnect" value="true" />
-        <property name="zeroDateTimeBehavior" value="CONVERT_TO_NULL" />
-        <property name="tinyInt1isBit" value="false" />
-        <property name="characterEncoding" value="utf8" />
-        <property name="characterSetResults" value="utf8" />
-        <property name="yearIsDateType" value="false" />
-      </driver-properties>
+      <jdbc-url>jdbc:mysql://tidb.local.hongyueip.com:4000/patent</jdbc-url>
     </data-source>
   </component>
 </application>
