@@ -1,0 +1,8 @@
+<application>
+  <component name="PostfixTemplates">
+    <template id="is_empty@userDefined" key=".is_empty" provider="builtin.java" language-level="8" topmost="false">
+      <conditions />
+      <template name="fakeKey" value="isEmpty($EXPR$)" toReformat="true" toShortenFQNames="true" />
+    </template>
+  </component>
+</application>
