@@ -1,8 +1,12 @@
 <application>
   <component name="PostfixTemplates">
+    <template id="is_not_empty@userDefined" key=".is_not_empty" provider="builtin.java" language-level="8" topmost="false">
+      <conditions />
+      <template name="fakeKey" value="!ObjectUtils.isEmpty($EXPR$)" toReformat="true" toShortenFQNames="true" />
+    </template>
     <template id="is_empty@userDefined" key=".is_empty" provider="builtin.java" language-level="8" topmost="false">
       <conditions />
-      <template name="fakeKey" value="ObjectUtils.isEmpty($EXPR$)" toReformat="true" toShortenFQNames="true" />
+      <template name="fakeKey" value="ObjectUtils.isEmpty($EXPR$)" description="" toReformat="true" toShortenFQNames="true" />
     </template>
   </component>
 </application>
