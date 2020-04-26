@@ -4,6 +4,7 @@
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping pattern="Dockerfile-local" type="PLAIN_TEXT" />
       <mapping ext="factories" type="PLAIN_TEXT" />
+      <mapping ext="ftl" type="PLAIN_TEXT" />
       <mapping ext="me" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
