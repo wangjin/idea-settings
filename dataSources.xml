@@ -1,16 +1,10 @@
 <application>
   <component name="dataSourceStorage" format="xml" multifile-model="true">
-    <data-source source="LOCAL" name="local" uuid="2faa4d64-fac1-4ce3-827e-190fea785ffa">
+    <data-source source="LOCAL" name="tidb@local" uuid="42751929-97de-46e8-9b2f-ce60718247be">
       <driver-ref>mysql.8</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
-      <jdbc-url>jdbc:mysql://tidb.local.hongyueip.com:3306/patent</jdbc-url>
-    </data-source>
-    <data-source source="LOCAL" name="mysql.service.codebetterlife.com" uuid="42751929-97de-46e8-9b2f-ce60718247be">
-      <driver-ref>mysql.8</driver-ref>
-      <synchronize>true</synchronize>
-      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
-      <jdbc-url>jdbc:mysql://mysql.service.codebetterlife.com:3310</jdbc-url>
+      <jdbc-url>jdbc:mysql://tidb.local.hongyueip.com:4000</jdbc-url>
     </data-source>
   </component>
 </application>
