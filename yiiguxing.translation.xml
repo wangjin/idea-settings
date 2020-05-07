@@ -1,14 +1,16 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="设为否" />
+      <item value="update" />
       <item value="SNAPSHOT" />
       <item value="租户编码" />
       <item value="tenant Code" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4" />
-        <entry key="ENGLISH" value="5" />
+        <entry key="CHINESE" value="6" />
+        <entry key="ENGLISH" value="6" />
         <entry key="FRENCH" value="1" />
       </map>
     </option>
