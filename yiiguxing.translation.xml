@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="repository" />
+      <item value="public" />
+      <item value="aliyun" />
+      <item value="Authors" />
+      <item value="Sponsor" />
       <item value="设为否" />
       <item value="update" />
       <item value="SNAPSHOT" />
@@ -9,10 +14,20 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="6" />
-        <entry key="ENGLISH" value="6" />
+        <entry key="CHINESE" value="10" />
+        <entry key="ENGLISH" value="11" />
         <entry key="FRENCH" value="1" />
+        <entry key="HAUSA" value="1" />
       </map>
+    </option>
+  </component>
+  <component name="Settings">
+    <option name="ignoreRegExp" value="" />
+    <option name="translator" value="ai.youdao" />
+    <option name="youdaoTranslateSettings">
+      <youdao-translate>
+        <option name="appId" value="15f204d5f6fbb5c7" />
+      </youdao-translate>
     </option>
   </component>
 </application>
