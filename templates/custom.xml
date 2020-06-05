@@ -12,7 +12,7 @@
       <option name="JAVA_DECLARATION" value="true" />
     </context>
   </template>
-  <template name="require_autowired" value="@RequiredArgsConstructor(onConstructor = @__(@Autowired))" toReformat="false" toShortenFQNames="true">
+  <template name="require_autowired" value="@RequiredArgsConstructor(onConstructor = @__(@Autowired))" description="" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="JAVA_CODE" value="true" />
     </context>
