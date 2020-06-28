@@ -2,9 +2,8 @@
   <component name="MyBatisCodeHelper">
     <option name="profile">
       <Profile>
-        <option name="usageCount" value="497" />
+        <option name="usageCount" value="498" />
         <option name="usejava8LocalDateTimeEct" value="true" />
-        <option name="valid" value="true" />
       </Profile>
     </option>
   </component>
