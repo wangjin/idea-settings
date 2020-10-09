@@ -5,6 +5,7 @@
   </component>
   <component name="UISettings">
     <option name="CONSOLE_CYCLE_BUFFER_SIZE_KB" value="4096" />
+    <option name="IDE_AA_TYPE" value="Greyscale" />
     <option name="MAX_LOOKUP_WIDTH2" value="632" />
     <option name="OVERRIDE_CONSOLE_CYCLE_BUFFER_SIZE" value="true" />
   </component>
