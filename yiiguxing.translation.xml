@@ -23,12 +23,4 @@
       </map>
     </option>
   </component>
-  <component name="Settings">
-    <option name="ignoreRegExp" value="" />
-    <option name="youdaoTranslateSettings">
-      <youdao-translate>
-        <option name="appId" value="15f204d5f6fbb5c7" />
-      </youdao-translate>
-    </option>
-  </component>
 </application>
