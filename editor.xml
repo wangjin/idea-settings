@@ -5,8 +5,8 @@
     <option name="ADD_UNAMBIGIOUS_IMPORTS_ON_THE_FLY" value="true" />
   </component>
   <component name="DefaultFont">
-    <option name="FONT_SIZE" value="15" />
-    <option name="FONT_FAMILY" value="Cascadia Mono" />
+    <option name="FONT_SIZE" value="14" />
+    <option name="FONT_FAMILY" value="Monaco" />
     <option name="USE_LIGATURES" value="true" />
   </component>
   <component name="EditorSettings">
