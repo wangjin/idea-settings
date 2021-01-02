@@ -1,10 +1,10 @@
 <application>
   <component name="dataSourceStorage" format="xml" multifile-model="true">
-    <data-source source="LOCAL" name="tidb@local" uuid="42751929-97de-46e8-9b2f-ce60718247be">
+    <data-source source="LOCAL" name="TiDB" uuid="42751929-97de-46e8-9b2f-ce60718247be">
       <driver-ref>mysql.8</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
-      <jdbc-url>jdbc:mysql://tidb.local.hongyueip.com:4000</jdbc-url>
+      <jdbc-url>jdbc:mysql://tidb-query.hongyueip.com:4000</jdbc-url>
     </data-source>
   </component>
 </application>
